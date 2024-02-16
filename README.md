@@ -4,4 +4,4 @@ Project is to make dedicated electronic mail system in QT. It consists of two si
 Server is a QT Console Application that waits for a client to connect, interacts with it and stores his information.
 Client is a QT Widgets Application, with a UI, that is used to interact with the server.
 Protocol is described with MSC (Message Sequence Chart) and SDL (Specification and Description Languge) diagrams.
-The main communication protocol is TCP, and libraries that are the main focus are <QTcpServer> and <QTcpSocket>.
+The main communication protocol is TCP, and libraries that are the main focus are QTcpServer and QTcpSocket.
