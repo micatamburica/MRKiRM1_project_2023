@@ -1,4 +1,4 @@
-**ELECTRONIC MAIL SYSTEM IN QT**
+**DEDICATED ELECTRONIC MAIL SYSTEM IN QT**
 
 Project is to make dedicated electronic mail system in QT. It consists of two sides, one is the server, and the other one is client.
 Server is a QT Console Application that waits for a client to connect, interacts with it and stores his information.
