@@ -6,3 +6,4 @@ Client is a QT Widgets Application, with a UI, that is used to interact with the
 Protocol is described with MSC (Message Sequence Chart) and SDL (Specification and Description Languge) diagrams.
 The main communication protocol is TCP, and libraries that are the main focus are QTcpServer and QTcpSocket.
 
+![plot](./Documentation/Testing_image.png)
